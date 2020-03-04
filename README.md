@@ -1,1 +1,1 @@
-# projekteszkozok
+# SmartGym
